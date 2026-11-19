@@ -29,5 +29,5 @@ streamlit run app.py
 
 - **Python**: core language
 - **Streamlit**: web interface (class dropdown, date picker, charts, runs in the browser on phone or laptop)
-- **pandas**: loading the CSV and calculating attendance rates
+- **pandas**: loading the CSV and calculating key metrics
 
