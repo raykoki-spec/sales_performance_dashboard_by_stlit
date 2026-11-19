@@ -28,6 +28,6 @@ streamlit run app.py
 ## Stack
 
 - **Python**: core language
-- **Streamlit**: web interface (class dropdown, date picker, charts, runs in the browser on phone or laptop)
+- **Streamlit**: web interface
 - **pandas**: loading the CSV and calculating key metrics
 
