@@ -1,0 +1,21 @@
+order_id,customer_name,county,product,quantity,unit_price,order_date,status,total_value
+1001,Kamau Stores,Nairobi,Maize Flour 2kg,50,120.0,2026-08-26,delivered,6000.0
+1002,Otieno Wholesale,Kisumu,Cooking Oil 5L,30,850.0,2026-08-26,delivered,25500.0
+1003,Njoroge Supplies,Nakuru,Sugar 1kg,200,115.0,2026-08-26,pending,23000.0
+1004,Hassan Traders,Mombasa,Rice 25kg,40,3200.0,2026-08-27,delivered,128000.0
+1005,Waweru Ltd,Nairobi,Maize Flour 2kg,80,120.0,2026-08-27,pending,9600.0
+1006,Owino Trading,Kisumu,Sugar 1kg,150,115.0,2026-08-27,delivered,17250.0
+1007,Karanja Mart,Mombasa,Cooking Oil 5L,20,850.0,2026-08-28,pending,17000.0
+1008,Kiprono Stores,Eldoret,Rice 25kg,15,3200.0,2026-08-29,delivered,48000.0
+1009,Ochieng Supplies,Kisumu,Maize Flour 2kg,100,120.0,2026-08-29,delivered,12000.0
+1010,Mutua Wholesale,Machakos,Cooking Oil 5L,25,850.0,2026-08-29,pending,21250.0
+1011,Mutinda Mart,Kitui,Sugar 1kg,200,115.0,2026-08-30,pending,23000.0
+1012,Ouma Ltd,Kisumu,Maize Flour 2kg,100,120.0,2026-08-30,delivered,12000.0
+1013,Wafula Suppliers,Nairobi,Rice 25kg,35,3200.0,2026-08-30,pending,112000.0
+1014,Kimani Stores,Mombasa,Cooking Oil 5L,30,850.0,2026-08-31,delivered,25500.0
+1015,Nyongesa Traders,Eldoret,Maize Flour 2kg,90,120.0,2026-09-01,pending,10800.0
+1016,Koech Suppliers,Nakuru,Rice 25kg,20,3200.0,2026-09-01,pending,64000.0
+1017,Otieno Mart,Kisumu,Cooking Oil 5L,20,850.0,2026-09-02,delivered,17000.0
+1018,Wanjiku Stores,Nairobi,Maize Flour 2kg,100,120.0,2026-09-03,pending,12000.0
+1019,Wamudhende Traders,Nakuru,Sugar 1kg,85,115.0,2026-09-03,pending,9775.0
+1020,Ngetich Ltd,Eldoret,Cooking Oil 5L,50,850.0,2026-09-03,delivered,42500.0
